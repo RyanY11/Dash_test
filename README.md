@@ -1,2 +1,6 @@
 # Dash_test
-Build data visualisation projects based on python-plotly/dash
+Try to build data visualisation projects based on python-plotly/dash
+
+dash: https://github.com/plotly/dash
+
+Heroku: https://heroku.com/home
